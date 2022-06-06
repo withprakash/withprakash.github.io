@@ -1,21 +1,2 @@
 *{margin: 0;}
-.bg1{background-color: blue;}
-.fl{float: left;}
-.fr{float: right;}
-.clr{clear: both;}
-.new{float: left; margin-left: 1.2%;}
-
-.wrapper{height: 80vh; margin: 5%;} 
-.wrapper2{height: 39vh; margin-bottom: 1%;}
-
-.box2{width: 49%; height: 39vh;}
-.box3{width: 49%; height: 39vh;}
-.box4{height: 19vh; margin-bottom: 2%;}
-.box5{height: 19vh; width: 32.5%;}
-.box6{height: 19vh; width: 66%; margin-top: 1%;}
-.box7{height: 9vh; width: 32.5%; margin-top: 1%;}
-.box8{height: 39vh; width: 49%;}
-.box9{height: 39vh; width: 49%; }
-.box10{height: 19vh; width: 49%; margin-bottom: 2%;}
-.box11{height: 19vh; width: 32.5%;}
-.box12{height: 19vh; margin-top: 2%;}
+.bg1{background-color: blue; height: 80px;}
